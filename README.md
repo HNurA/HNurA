@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hilal!
 
-👩🏻‍💻 Currently a 3rd year student of Computer Engineering at the Istanbul Medeniyet University, Türkiye<br/>
+👩🏻‍💻 Currently a 4th year student of Computer Engineering at the Istanbul Medeniyet University, Türkiye<br/>
 👾 Aspiring game developer passionate about creating immersive worlds and experiences<br/>
 📚 #learninginpublic as I dive into system programming, kernel development, mobile app development and software engineering<br/>
 📫 How to reach me: hnuralbayrak@gmail.com<br/>
